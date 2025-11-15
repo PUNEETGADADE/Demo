@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-Author - Puneet Gadade
+Author - Puneet Gadade(Animal Lover)
